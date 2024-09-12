@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://flowcv.com/resume/jrfc1i84l1](https://flowcv.com/resume/jrfc1i84l1)
 
-- ⚡ Fun fact **I play guitar**
+- ⚡ Fun fact **Avocados are not vegetables**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
