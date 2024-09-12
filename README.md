@@ -1,5 +1,5 @@
 <h1 align="center">My name is: Felix Rodriguez</h1>
-<h3 align="center">I'm a Data Scientist from Venezuela. Passionate in the Tech World</h3>
+<h3 align="center">I'm a Dentist and Data Scientist, driven by a passion for technology and innovation.</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/fexeduard224](https://github.com/fexeduard224)
 
